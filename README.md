@@ -1,1 +1,1 @@
-# Arch linux necessities
+# Dotfiles for window managers
